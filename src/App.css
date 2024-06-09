@@ -90,6 +90,9 @@ li {
   cursor: pointer;
 
 }
+li:hover{
+  color: hsl(75, 94%, 57%);
+}
 .green-p{
 
   color: hsl(75, 94%, 57%);
